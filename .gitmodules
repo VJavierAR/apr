@@ -7,3 +7,8 @@
 	path = OCA/apps-store
 	url = git@github.com:OCA/apps-store.git
 	branch = 12.0
+
+[submodule "gityopie/odoo-addons"]
+	path = gityopie/odoo-addons
+	url = git@github.com:gityopie/odoo-addons.git
+	branch = 12.0
