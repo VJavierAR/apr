@@ -2,3 +2,8 @@
 	path = VJavierAR/requisicion
 	url = git@github.com:VJavierAR/requisicion.git
 	branch = master
+
+[submodule "OCA/apps-store"]
+	path = OCA/apps-store
+	url = git@github.com:OCA/apps-store.git
+	branch = 12.0
